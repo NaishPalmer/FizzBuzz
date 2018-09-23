@@ -11,8 +11,13 @@ for i in range(1, 100):
 		print('Fizz')
 	else:
 		print(i)
+<<<<<<< HEAD
       
 
 
 
         #this is a seperate comment for v1
+=======
+
+        #nigger
+>>>>>>> fc00578913e2ba2b0a90189257ccefe027397958
